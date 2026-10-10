@@ -11,4 +11,4 @@ Facts and sources:
 - Daevon: 3 months in, $2,800 week — LinkedIn post 2025-06-14; Aqsa $5,000 check — visible on check + draft1
 - Services text — truheartconsultinginc.com home page verbatim
 - Phone (206) 657-6416, careers@ email, 565 Andover Park W Ste 102, Tukwila WA 98188 — draft1 live
-VERIFY: address 555 vs 565 and ZIP (material.md conflict); conference name/date shown in reels not used in copy.
+RESOLVED 2026-10-10: truheartconsultinginc.com footer on /, /contact, /careers, /solutions reads "565 Andover Park W, Ste 102, Tukwila, WA 98188" and (206) 657-6416 — matches page. Remaining: conference name/date shown in reels not used in copy.
